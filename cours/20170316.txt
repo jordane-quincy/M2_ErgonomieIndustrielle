@@ -172,4 +172,52 @@ Faciliter le dévloppment d'un modèle mental clair, simple, complet, distinct e
 - Favoriser un feedback clair et informatif
 - Assurez-vous de la cohérence de l'interface
 
-8.6.4 Principes d'ergonomie applicable ) la conception de l'IHM
+8.6.4 Principes d'ergonomie applicable à la conception de l'IHM
+
+- Fournir de l'infirmation
+- Fournir toutes les informations utiles
+- Fournir des information réellement utiles (pas de fioriture)
+- Ne pas fournir des informations difficiles à interpréter
+- Fournir des informations permettant la prévision
+- Fournir des alarmes qui ne passent pas inaperçues de l'opérateur (couleurs, taille, sons, etc.)
+- Limiter le nombre d'actions et faciliter l'élaboration des tactiques et des stratégies
+- Étudier soigneusement le sens et le mode d'actions des commandes
+- Limiter le nombre de commandes
+- Faciliter le dialogue opérateur - système
+
+a) Le principe du KISS
+  - Une interface utilisateur adhère au concept du KISS (Keep It Simple and Stupid) lorsqu'il ne reste plus rien d'utile à enlever.
+  - "Garde ça simple et idiot !"
+  - "Ne complique pas les choses !"
+  - La simplicité dans la conception préconise que toute complxité non indispensable devrait être évitée dans toute la mesure du possible.
+
+  - Keep it short and simple : "laisse le simple et court"
+  - Keep it small and simple : "laisse le simple et bref"
+  - Keep it sweet and simple : "laisse le simple et agréable"
+  - Keep it simple and smart : "laisse le simple et intelligent"
+  - Keep it safe and simple : "laisse le sûr et simple"
+
+  "It is easy to make things hard. It is hard to make things easy." - A. Chapanis, 1982
+  "la simplicité est la sophistication suprême." - Léonar de Vinci (1452 - 1519)
+  "Simplicité, beauté et vérité sont indissociables." - Albert Einstein, 1909
+
+  Éviter la complexité c'est facilité l'accès à l'usage, mais faire simple, c'est du boulot !
+    - Le manque de clarté et de simplicité représente :
+        - un manque en efficacité
+        - une perte de temps
+        - une charge cognitive considérable
+
+    - Plus c'est technique, plus le besoin de simplicité est fort
+    - Utiliser un modèle pour structurer plus rapidement
+    - Toujours se mettre à la plae de l'utilisateur
+    - Se limiter à l'essentiel, à ce qui est indispensable
+    - Se poser les bonnes questions avant de se lancer
+    - Utiliser des diagrammes, des graphiques, des icônes, des métaphores et des tableaux pour résumer l'information
+    - Exemples :
+                  - le rectangle blanc de google
+                  - la "flip cam" (un bouton rouge et un port USB intégrés, un logiciel compatible avc tous les ordinateurs).
+
+b) L'iceberg "look-and-feel" d'IBM (1992)
+  10% : Présentation ("look") : représentation visuelles, ethétiques
+  30 % : Interaction ("feel") : techniques d'interaction
+  60 % : Objets et relations : propriétés, comportements, métaphores communes
