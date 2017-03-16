@@ -1,0 +1,175 @@
+8.3.4 Manipulation directe
+
+Voir les choses autrement :
+  - Métaphore
+    Manipulation directe
+    Voir et pointer
+    Consistance
+    WYSIWYG
+    Contrôle de l'usager
+    Rétroaction et dialogue
+    Tolérance (erreurs de saisie par exemple)
+    Intégrité esthétique
+    Sans modes
+
+  - Réalité
+    Délégation (recherche)
+    Décrire et commander
+    Diversité
+    Représenter les sens
+    Contrôle partagé
+    Sytème s'occupe des détails
+    Modèle de l'usager (usager moyen en général)
+    Variété graphique
+    Indices plus riches
+
+
+8.3.5 Principes ergonomiques directeurs (Nielsen)
+
+1. Visibilité de l'état du système (rétroaction --> sablier, progressbar, spinner, etc.)
+2. Correspondance entre le monde et le système (cohérence externe, physiquement évident (Bureau physique/ Bureau virtuel))
+3. Contrôle à l'usager (sortie, réversibilité)
+4. Homogénéité (cohérence interne) et standards
+5. Prévention des erreurs
+6. Reconnaître plutôt que rappeler (visible) (Donner des aides pour reconnaître plutôt qu'apprendre par cœur)
+7. Fléxibilité et efficacité dans l'usage (expert et non expert) (--> raccourcis clavier vs clic à la souris)
+8. Design et esthétique
+9. Aide à la correction des erreurs
+10. Aide et documentation
+
+
+8.3.6 Principes ergonomiques (Bastien et Scapin)
+
+Guidage
+  Incitation
+  Organisation : groupement / Distinction (localisation, format)
+  Feedback immédiat
+  Lisibilité
+
+Charge de travail
+  Brièveté (concision, perception, actions minimales)
+  Densité Informationnelle
+
+Contrôle explicite
+  Actions explicites (validation)
+  Contrôle par l'usager
+
+Etc.
+
+
+8.3.7 évaluation heuristique (Nielsen)
+
+Pour chaque problème :
+  - le décrire
+  - l'identifier en termes de principes ergonomiques
+  - le classer pour ce qui est de la sévérité du problème
+      Fréquence - Problème qui arrive souvent ou qui est rare
+      Impact : Facile ou difficile de corriger les impacts
+      Persistance du prolbème : Est-il facile de le contourner ou continuera-t-il de nuire à l’interaction ? (ex. action superflue).
+      --> Score de 0 à 4 :
+             0 : Pas de problème
+             1 : Problème cosmétique à corriger éventuellement
+             2 : Problème mineur : basse priorité
+             3 : Problème majeur : haute priorité
+             4 : Catastrophe: impératif à régler avant de sortir le produit
+
+
+8.4 Ergonomie du Web
+  8.4.1 "Exemples de sites ratés"
+
+  8.4.2 Définition
+
+L'ergonomie d'un site web peut être définie par sa capacitéà répondre efficacement aux attentes des utilisateurs et à leur fournir un confort de navigation.
+
+
+  8.4.3 Critères de l'ergonomie du web
+
+Les critères suivants sont généralement déterminants pour un site web :
+    - Attentes de l'utilisateur : diversité des informations recherchées et diversité des exigences en terme de graphisme.
+    - Habitudes de l'utilisateur : elles correspondent à des comportements acquis (novice, expert).
+    - âge de l'utilisateur : il caractérise en général la capacité d'adaptation de l'utilisateur et sa rapidité de navigation.
+    - équipements : diversité des systèmes, des navigateurs (rapidité, résolution d'affichage...)
+    - Niveau des connaissances : tous les visiteurs du site ne sont pas nécessairement des as de l'informatique.
+L'ergonomie du site doit être pensée pour l'utilisateur le moins expérimenté.
+
+
+  8.4.4 Pourquoi se préoccuper de l'ergonomie du web
+
+- 44% des internautes ne parviennent pas à terminer leur achat sur des sites d'e-commerce. (Source : Jakob Nielsen, Alerbox)
+- La facilité d'utilisation est le 2ème facteur de fidélité à un site . (Source: Forrecter Research)
+- Consacrer 10 % du budget d'un projet à l'utilisabilité peut permettre d'économiser qu'à 100%. (Source: Jakob Nielsen 'Calculating Web Usability Return on Investment')
+
+
+  8.4.5 L'utilisation des formulaires de contact des sites Internet (Cabinet d'étude Opinion Way)
+
+- 49% des internautes renoncent à concrétiser leur achat (précisément en cours de remplissage ud formulaire.)
+- 41% des sondés, la procédure est trop longue, donc dissuasive.
+- 25% ne parviennent pas à identifier leurs erreurs, et donc abandonnent la procédure. (champ obligatoire, etc.)
+- 19% des internautes jugent trop personnels les informations demandées par les sites marchants
+- 18% des sondé soulignent le manque de clarté des formulaires de commande.
+- 17% incriminent le manque d'informations pour compléter le formulaire
+
+
+  8.4.6 Recommandations pour optimiser l'efficacité des formulaires de contact
+
+1- Concentrez-vous sur les informations qui sont strictement nécesaires
+2- Votre formulaire de contact doit tenir sur une seule page écran (pas d'ascenseur)
+3- Gardez un design sobre et fonctionnel : éiter de surcharger inutilement votre formulaire. Adopter le KISS (Keep It Short and Simple) !
+4- Soyez logiques dans le déroulement de votre formulaire (regrouper le nom et le prénom, etc.)
+5- Réduisez le nombre d'interactions pour le remplissage du formulaire : Utilisez les boutons radios, les listes déroulantes et remplissez vos champs par défaut.
+6- Informer l'internaute de ses erreurs en temps réel : L'idéal est d'informer l’internaute au fur et a mesure du remplissage des champs du succès ou de l'échec de son action
+7- Sauvegardez les données saisies dans le formulaire pour l'internaute :  Assurez vous en , si votre formulaire se découpe en plusieurs étapes. (ex : validation de commande sur plusieurs pages : livraison/ facturation/ et.)
+8- Proposez une aide contextuelle au remplissage de votre formulaire
+9- Soignez votre message de confirmation
+10- Testez les versions les plus efficaces
+
+
+8.5 Ergonomie du produit
+
+- Penser la conception en terme d'utilisation (qui et comment on va l'utiliser)
+- Fonder la conception du produit sur l'étude des caractéristiques physiques et psychologiques des usagers.
+- Concevoir une solution pour les utilisateurs : matériel, logiciel, documentation, organisation, formation.
+- Concevoir des produits adaptés aux besoins
+  - Utiles (utility) : fonctionnalités
+  - Faciles d'utilisation (usability) : dialogue, aide
+  - Accessibles (affordability) : coût/usage
+
+
+8.6 Ergonomique des Interfaces Homme-Machine (IHM)
+
+Elle correspond à tout ce qui influence la participation de l'utilisateur à des tâches informatisées.
+  - Elle ne se limite pas, uniquement, aux aspects graphiques, esthétiques et aux modalités du dialogue.
+  - Elle doit aussi permettre de définir les informations qui interviennent dans chaque phase du dialogue ainsi que leur signification pour l'utilisateur.
+  - Concevoir une bonne interface : c'est adapter la logique du fonctionnement du système informatique à la logique d'utilisation de l'utilisateur.
+  -
+
+8.6.1 Les composants de l'IHM
+
+L'utilisateur
+  Accomplit une tâche
+  Dans un contexte particulier
+  En utilisant une système informatique
+
+    Utilisateur - Tâche - Système - Contexte
+
+8.6.2 Caractéristiques d'une IHM ergonomique
+
+- Adaptée aux besoins
+- Performante : tâches rapides à exécuter, réactions immédiates
+- Facile à apprendre
+- Intuitive: prédictible
+- Rassurante : apprentissage par essai - erreur
+- Agréable : esthétique, dynamique, ludique
+
+
+8.6.3 Objectif d'une IHM
+
+Faciliter le dévloppment d'un modèle mental clair, simple, complet, distinct et fiable.
+  Comment ?
+- Utiliser des métaphores (minimiser l'appel aux ressources cognitives)
+- Minimiser les informations confuses et éléminer celles qui ne sont pas significatives
+- Maximiser la qualité plutôt que la quantité des informations (Principe du KISS)
+- Favoriser un feedback clair et informatif
+- Assurez-vous de la cohérence de l'interface
+
+8.6.4 Principes d'ergonomie applicable ) la conception de l'IHM
