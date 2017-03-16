@@ -1,0 +1,214 @@
+8 Différents types d'ergonomie
+
+8.1 Ergonomie physique et physiologique
+  Elle s'intéresse au fonctionnement :
+    Physique (caractéristiques anatomiques, bio-mécaniques, anthropométriques, etc.) // anthropométriques --> mesures des dimensions humaines (pour ajuster la taille des voitures par ex. )
+    Physiologique (fréquence et débit cardiaques, consommation d'oxygene, oculométrie, etc.) de l'opérateur humain // oculométrie --> 2 caméras filme la direction du regard de l'user durant la navigation sur un site par exemple)
+
+Ces connaissances seront appliquées :
+  Aux espaces de travail,
+  A la conception du poste de travail
+  A l'étude de l'ambiance physiques,
+  Aux postures de travail,
+  Aux manipulation d'objets,
+  Aux mouvements répétitifs,
+  Aux troubles musculo-squelettiques,
+  La sécurité et la santé de l'opérateur, etc.
+
+  --> Lors de la conception d'une voiture, il faut satisfaire 90% des utilisateurs (objectifs) donc on ne prend pas en compte les 5% les plus petits ni les 5% les plus grands.
+
+8.2 Ergonomie cognitive
+
+Elle concerne les processus mentaux liés à l'activité de travail tels que :
+  la perception,
+  la mémoire,
+  le raisonnement,
+  le langage,
+  les réponses motrices.
+
+Les sujets d'études visent notamment :
+  la charge mentale,
+  la prise de décision,
+  la performance dans le travail,
+  l'interaction Homme-Machine,
+  l'erreur et la fiabilité humaines,
+  le stress professionnel
+
+Elle offre des modèles théoriques du fonctionnement cognitif humain pour tout comportement mettant en œuvre, notamment, la gestion des connaissances en relation avec la mémoire.
+
+8.2.1 L'homme est un système complexe
+      - Le processus de traitement de l'information est compliqué chez les humains
+      - Il est dans une situation de résolution de problèmes
+      - Il dispose de mémoires limitées
+      - Il planifie ces tâches
+      - Il a une représentation mentale de ce qu'il voit (à l'écran)
+      - Il doit prendre des décisions
+      - Le langage et la communication (pour sortir de cette complexité)
+      - Processus d'apprentissage (long + réticence au changement)
+
+8.2.2 Activité cognitive et complexité
+
+La logique de fonctionnement du système informatique doit correspondre à la logique d'utilisation de l'opérateur humain.
+
+
+L'utilisateur
+  Connaissances en informatique
+  Une activité cognitive + ou - complexe
+  Des procédures de résolution de problèmes
+  Des habitudes de navigation (réticence au changement --> faire des périodes de transition douces)
+  Des termes et des codes utilisés (vocabulaire du domaine)
+
+        VS
+
+Le système informatique
+  Traitement de l'information
+  Organisation des fonctions
+  Spécification des codes
+  Fonctionnement des procédures
+  Définition de la navigation
+  Choix des options de présentation
+
+
+8.2.3 Modélisation de l'opérateur
+L’être humain, selon le modèle du "processeur humain",
+  Perçoit sont environnement à l'aide de son système sensoriel (5 sens : toucher, vue , ouïe, odorat, goût)
+  Mémorise et planifie des actions à l'aide de son système cognitif (cerveau)
+  Agit grâce à son système moteur et grâce au langage
+
+  --> Modèle du processeur humain de Card, Moral et Newell (1983)
+    1. Processeur perceptif (sensoriel)
+    2. Mémoire à court terme : Mémoire visuelle + Mémoire auditive
+    3. Processeur cognitif (choix : garder ou jeter l'info)
+    4. Mémoire à long terme
+    5. Processeur moteur (actions, comportements)
+
+8.2.4 Le mouvement des yeux comme Indicateur de l'activité cognitive
+Oculométrie ou eye tracking : analyse des mouvements oculaires.
+Les oculomètres analysent les mouvements de l’œil humain enregisrés par une caméra, souvent en luière infrarouge, pour suivre et calculer la direction du regard du sujet.
+  --> étude de la statégie de surveillance mise en œuvre par les contrôleurs aériens et de leur interactions avec les écrans de contrôle mis à leur disposition.
+
+L'apport de l'oculométrie :
+  Suivre en temps réel la prise d'informations
+  Appréhender les décisions et les raisonnements de l'utilisateur
+  Comprendre les comportements cognitifs des utilisateurs
+  Fournir des recommandations au concepteur afin d'améliorer son interface
+
+8.2.5 Rôle de la mémoire humaine
+a) Exemples
+b) Facteurs de la fixation mnémonique
+  Facteurs liés au matériel à apprendre (apprendre des lettres, des chiffres, etc.)
+      Familiarisation avec le matériel à apprendre
+      Signification du matériel : regroupement en ensemble ressemblant à des mots connus.
+  Influence des méthodes d'apprentissage
+      Le fractionnement de l’apprentissage facilite la mémorisation
+      Organisation de l'apprentissage : résumés, synthéses, fiches, etc.
+  Interactions entre le sujet et la tache
+    La reproduction (récitation... ) à facilite la fixation mnémonique
+    La compréhension du matériel : on mémorise mieux ce que l'on comprend bien
+    Rôle de l'attention
+    Rôle de la motivation
+
+8.2.6 Conséquence pour l'ergonomie de l'informatique
+a) Caractéristiques de la mémoire à court terme (MCT)
+  Capacité réduite : selon les personnes, leur état de fatigue, on peut mémoriser 7  +ou-2 monèmes; (George Miller, 1956) --> ne pas faire de menu de + de 7 items !
+  Durée limitée : mémoire très volatile
+  Unité de stockage : temporaire
+  Goulot d'étrangelement majeur du système humain : La MCT reçoit 1000 fois plus d'informations qu'elle ne peut en traiter
+
+  Elle regroupe les unités d'informations essentiellement par motifs visuels et/ou acoustiques
+  Elle recherche l'information d'une manière séquentielle
+  Elle présente des problèmes d'interférences : lorsque la MCT est saturée, l'arrivée de nouveaux monèmes efface ceux qui n'ont pas fait l'objet d'une réactivation
+
+  Elle est limitée par l'oubli
+  Facilité de perte d'information si distraction (KISS)
+  Le taux d'oubli augmente avec la complexité de la tache ou de l'activité distrayante ainsi qu'avec la quanaité d'informations à mémoriser
+  Le rappel de noms d'items est facilité lorsque ceux ci sont accompagnés d'images (image "Home" mais ajouté quand même le libellé "Accueil")
+  Plus l'utilisateur est agé (après 55 ans), moins il est possible de stocker d'information dan la MCT
+
+b) Conséquencs de la MCT et principes pour l'ergonomie
+  Regrouper les informations (perception)
+  Valeurs implicites (ou par défaut)
+  Éviter de surcharger les panoramas d'écrans
+  Minimiser la charge mentale lors de la navigation (informations transitoires à bannir)
+
+  Privilégier le WYSIWYG et l'utilisation de métaphores (mettre un fichier dans la poubelle (comme ce qu'on fait dans la vraie vie))
+  Psychologie expériementale (Ebbinghaus) : c'est plus facile de se rappeler la signification des choses que de s'en rappeler avec exactitude (sens d'un mot et sa définition)
+  Prévoir différentes formes d'interaction (menu par clic + par clavier, etc.)
+
+c) Caractéristiques de la mémoire à long terme (MLT)
+  Capacité illimitée (certaines des informations permanentes peuvent devenir inaccessibles)
+  Information stockée de façon complexe, dynamique et en constante réorganisation
+  Durée illimitée
+
+  Stockage et extraction lents, non fiables et difficiles -> effort requis pour stocker et extraire l'information lors de l'apprentissage
+  L'information à laquelle on accède fréquemment peut être extraite plus facilement et plus rapidement que l'information accèdée occasionnellement
+
+
+d) Conséunces de la MLT et principes pour l’ergonomie
+  Importance de ternir compte de la MLT lors de la conception de systèmes dont les utilisateurs se servent peut fréquemenent ou lorsque le taux de roulement est élevé
+  Une information ne peut être stockée dans la MLT que si elle a été traitée, travaillée et réorganisée par nous mêmes.
+
+  Le cerveau enregistre, retient et restitue plus facilement ce qui est structurée
+  Considérer la fréquence d'utilisation :
+    -> usage occasionnel : aide, menu, libellés, explicites, etc.
+    -> usage fréquent : commandes, abbréviations, etc.
+
+  Implanter avec redondance pour faciliter le stockage et le rappel : icône avec nom et couleur
+
+  Rétention du temps :
+    On ne retient que ce qui est utile
+    On ne retient que ce que l'on a intégré
+    On ne retient que ce que l'on utilise
+    Après 30 min, 50% des nouvelles données nouvellement acquises ont été oubliées
+    Après 4 semaines, 98% des données nouvellement acquises ont été ouliées
+
+éviter les abréviations (icônes, etc.) SAUF si usage très fréquent ;-)
+  Considérer la fréquence d'utilisation
+  Minimiser la charge mentale en :
+    faisant appel à la reconnaissance plutôt qu'au rappel
+    fournissant du feedback visuel en direct (ex: LibreOffice Writer souligne en rouge les fautes de frappes)
+    autorisant les fonctions Undo / Redo (annuler/restaurer via CTRL+Z / CTRL+Y)
+    privilégiant une syntaxe de type objet-action
+    privilégiant l'utilisation de métaphjores du monde réel (bureau virtuel/réel, corbeille/poubelle réel)
+
+L'ergonomie cognitive vise à étudier comment :
+  fonctionne notre cerveau
+  nous pensons
+  nous mémorisons (mieux avec des images, en parlant plus lentement)
+  nous apprenons
+
+L'ergonomie cognitive identifie les forces (habilités, aptitudes, etc) et les faiblesses (limites structurales et de ressources)
+
+Cette identification est essentielle pour l'utilisation adéquante de la technologie.
+La technologie doit permettre à l'individu de tirer profit de ses moyens, tout en supportant l'individu dans ses limites et faiblesses.
+
+8.3 Ergonomie du logiciel
+L'ergonomie du logiciel se définit comme la compatibilité des logiciels avec les caractéristiques physiologiques, perceptives et cognitives des utilisateurs.
+Son objectif est :
+  d'améliorer l'interface entre les hommes et les logiciels
+  d'optimiser la manière dont l'information est traitée et présentée par l'ordinateur afin de correspondre aux objectifs des utilisateurs (choix des objets, des fonctions ...)
+
+8.3.1 la métaphore du bureau
+  Le bureau, la poubelle, dossiers, etc.
+
+8.3.2 Principes ergonomiques "évaluation heuristique"
+  Principes pouvant guider la conception :
+    Interfaces à manipulation directe (tactile)
+    Principes ergonomiques Nielsen, Bastien & Scapin
+
+  Méthode d'évaluation par des experts (Nielsen)
+    Classer les problèmes en termes de gravité
+    Identifier les principes non respectés
+    Proposer des solutions
+
+8.3.3 Les interfaces à manipulation directe
+Certaines interfaces sont plus faciles à utiliser pourquoi ?
+  Voir l'opération se produire (barre de progression)
+  Monter le résultat, rétroaction (feedback -> Message "Success")
+  Possibilité de survol et de grossissement (zoom)
+  Déclenchement par un bouton, résultat immédiat
+  Continu, instantané, progressif et réversible (aide la manipulation directe)
+  Visibilité et contrôle
+  Fléxibilité
+  Efficacité, utilisabilité, rapidité, fiabilité
+  
