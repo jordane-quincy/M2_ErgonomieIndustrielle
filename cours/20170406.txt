@@ -1,0 +1,164 @@
+Henry Royce : " Chercher la perfection en tout. Prendre le meilleur de ce qui existe et l'améliorer. Et quand rien n'existe, le concevoir."
+
+1 Définitions
+
+1.1 Conception
+
+- La conception est une interaction entre la compréhension et la création (Winograd et Flores)
+- La conception est le résultat d'un compromis entre plusieurs types de contraintes (productivité, faisabilité technique, charge de travail de l'utilisateur, etc.)
+- Comprendre la communication dans les Systèmes Hommes-Machines (SHM) pour concevoir des produits adaptés à l'utilisation
+- Concevoir des produits adaptés aux besoins :
+  - Utiles (utility) : fonctionnalités
+  - Faciles d'utilisation (usability) : dialogue (homme-machine), aide
+  - Accessibles (affordability) : coût / usage
+
+
+1.2 Ergonomie de conception
+
+- Conception de produits de grande diffusion en tenant compte de l'évolutin technologique et de la vaiabilité interindividuelle des utilisateurs.
+- La conception de systèmes de production (ergonomie des projets industriels, ergonomie du transfert de technologie (Anthropotechnologie))
+
+1.3 Ergonomie d'aménagement
+- Aménagement des situations de travail (correction des postes de travail mal conçus)
+
+1.4 Différences entre aménagement et conception des situations de travail
+
+    Situation S1                                                                                      Situation S2
+Situation de travail actuelle ------ analyse ergonomique d'aménagement ------> situation de travail actuelle améliorée
+
+Projet de situation de travail future ----- analyse ergonomique de conception / Processus de conception ----> situation de travail concue
+                                              E1 situation de travail en cours de conception
+                                              E2 Situation de travail en cours de conception
+                                              E3 Situation de travail en cours de conception
+
+Paradoxe de l'ergonomie de conception :
+
+Pour dire quelque chose de réellement fondé sur la situation S1, il faut attendre qu'elle soit complètement conçue (S2) mais alors il est trop tard pour intervenir dans la conception.
+
+1.5 Paradoxe de l'ergonomie de conception
+
+  Le paradoxe :
+    - Pour formuler des propositions de conception d'un produit bien fondées, il faut connaître l'activité d'utilisation
+    - Pour connaître cette activité, il faut disposer du produit à concevoir,
+    - or, si on attend que le produit soit conçu, il est trop tard, tout est figé
+    - il n'y a donc pas de contribution à la conception et l'ergonome se trouve dans une situation d'évaluation du produit et en position critque de la conception
+    - Comment faire en sorte pour que l'ergonomie soit intégré au processus de conception ?
+
+
+2 Les principales approches de conception en ergonomie
+
+2.1 Approche Human Factors, USA
+
+Approche américaine de l'ergonomie du composant humain obtenue par l'expérimentation en laboratoire
+
+2.2 "Caractéristiques et limite des utilisateurs" rassemblées dans les guides ergonomiques
+
+2.3 Données antropométriques
+
+2.4 Approche centrée sur l'actiivité d'utilisation
+
+- Approche francophone
+- Étape de l'analyse de la tâche
+- Étape de l'analyse de l'activité
+- Étape de passage de l'analyse de l'activité à la spécification de solution de conception
+- Étape d'anticipation des évolution de "l'activité future probable" liées à l'introduction du système à concevoir
+
+3 Domaines de conception
+
+3.1 Diversité de domaines
+  - Domaine du fonctionnement techniques (d'un logiciel) (--> Comment ça marche)
+  - Domaine des fonctionnalités : ce que l'utilisateur va faire en interaction avec le logiciel
+  - Domaine des systèmes de production  usine, atelier, unité de production, atelier multimédia, etc.
+
+  - Exemple pour la conception d'un logiciel :
+    il faut tenir compte de la facilité d'utilisation, la facilité d'apprentissage, la possibilité d'ouverture et d'évolution,
+    les liens avec l'organisation et la formation, etc...
+
+3.2 Situations variées à explorer
+
+- Objectifs différents
+- Fréquence d'utilisation variable
+- Utilisateurs différents
+- Environnement varié
+- Organisation différente
+- Formation et apprentissage diversifiés
+
+3.3 Les questions de conception
+
+- Variées selon le type de demandeur
+  - Constructeur / Entreprise
+  - Marketing / concepteur technique
+  - Institutions publiques
+
+- Évolutives au cours du processus de conception
+  - De nouvelles questions apparaissant
+  - Les questions sont de plus en plus précises
+  - Possibilités d'itération
+
+
+Les études ergonomiques doivent répondre aux questions de conception et anticiper les questions à venir.
+
+4 Inadéquation de la conception
+
+4.1 En général
+  - Fonctions essentielles manquantes ou peu accessibles
+  - Procédure très lourdes ou fastidieuses
+  - Gestion des erreurs inexistante
+  - Messages d'information non explicites
+  - Fiabilité humaine et fiabilité du système souvent oubliées
+  - Logique d'utilisation et logique de fonctionnement souvent éloignées.
+
+4.2 En particulier
+  - Des saisies inutiles
+  - Des aides futiles
+  - Des touches de fonction hétérogènes
+  - Des retours impossibles (ex: pas possible de faire un retour vers l'acceuil)
+  - Des messages incompéhensibles "Err.19 X11"
+  - Clignotement inadéquat (mode CDiscount)
+  - Etc.
+
+5 Critères généraux de conception
+
+5.1 les critères
+  - Production en quantité et en qualité (compétivité)
+  - Santé, sécurité, confort d'utilisation
+  - Fiabilité humaine et fiabilité du système
+  - Apprentissage, formation
+  - Besoin des utilisateurs et facilité d'utilisation
+  - Création de besoins nouveaux : réseaux, internet, mail, sms, etc.
+
+5.2 Validité des critères
+  - Vérification : examen, essais ou mesures effectuées en référence à des données préétablies.
+  - Évaluation : mesure des performances d'un produit ou d'un procédé (a priori ou a posteriori) sur des données recueillies
+  - Validation : acte par lequel le concepteur reconnaît que son produit est capable de satisfaire le besoin pour lequel il a été défini.
+  - Qualification : établissement de la conformité d'un produit final par rapport aux exigences du client
+
+6 Diversité d'approches de conception (Les idées reçues)
+
+6.1 Les normes
+  "des normes et des standards, sinon rien"
+    Il y a des difficultés quand on se trouve face à un problème simple ou complexe, particulier ou général, etc.
+
+    - AFNOR : Association Française de Normalisation
+      - conception des logiciels et des produits multimédia,
+      - conception des machines et des postes de travail :
+        - principes généraux de conception, sécurité des machines,
+        - dimensions et postures,
+        - efforts sur commandes,
+        - outils et pièces,
+        - travail sur systèles informatisés,
+        - dimensions corporelles (données antropométrique),
+        - signaux de danger,
+        - port manuel des charges,
+        - etc.
+
+    - CEN : Comité Européen de Normalisation
+    - DIN : Deutsches Intitut für Normung
+    - OSHA : Occupational Safety and Health Administration (Association américaine de normalisation)
+    - ISO : Organisation internationale des normes (International Standards Organization)
+
+6.2 Les standards
+
+- Les standards (guides) ne s'intéressent qu'aux limites et pas du tout à ce qui est complexe ou particulier
+    (par exemple, l'activité cognitive et le raisonnement en particulier)
+- Les standards abordent des domaines ciblés : espace de travail, dimensions commandes, ambiance physique, etc.
