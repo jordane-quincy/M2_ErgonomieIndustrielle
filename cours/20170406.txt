@@ -162,3 +162,157 @@ Les études ergonomiques doivent répondre aux questions de conception et antici
 - Les standards (guides) ne s'intéressent qu'aux limites et pas du tout à ce qui est complexe ou particulier
     (par exemple, l'activité cognitive et le raisonnement en particulier)
 - Les standards abordent des domaines ciblés : espace de travail, dimensions commandes, ambiance physique, etc.
+
+Exemple :
+Le monde Macintosh (année 70) : Idées sur les interfaces utilisateurs à partir des principes suivants
+
+    Familiar user's conceptual model
+    Seeing and pointing versus remembering and typing
+    WYSIWIG : What you see is what you get
+    Universal commands
+    Consistency
+    Simplicity
+    Modeless interaction
+    User tailorability
+
+
+
+6.3 Faire le cobaye soi-même
+  "Ce qui est bon pour moi, concepteur en tant qu'utilisateur, est bon pour les autres utilisateurs"
+  - Pour tenir compte de l'utilisateur, il suffirait donc de se mettre à sa place !
+    mais alors que fait on face aux problèmes liés à l'age, à la formation et à la culture par exemple
+      --> C'est un méthode qui conduit à l'échec car :
+          - l'observation participante a beaucoup de limites (on est juge et partie)
+          - les caractéristiques des utilisateurs usuels sont différentes de celles du concepteur (Connaissances en informatique différentes, etc.)
+
+6.4 "On fera mieux la prochaine fois"
+  - les progrès techniques permettront d'améliorer la version suivante, les nouvelles commandes, l'amélioration de l'utilisation, etc.
+  - il faut payé l'échec présent (avant de pouvoir penser à la suite)
+  - il y a un risque de mal préparer cette hypothétique "prochaine fois"
+
+6.5 "Avec les progrès techniques, l'Homme s'adaptera"
+  - Approche taylorienne qui aboutit à des échecs coûteux en terme de production et de santé (méconnaissance de l'homme)
+  - Les salariés s'adapteront difficilement. Les clients changeront de produit rapidement
+
+6.6 Le courant de l'ergonomie participative (Parcipatory ergonomics)
+  - Décentralisation des prises de décisin
+  - Appel aux experts
+  - Écoute des opérateurs
+  - Cercle de qualité (on discute du moindre pb pour améliorer la qualité)
+  - Boîtes à idées
+  - Retour d'expérience
+  --> Inconvénients : augmentation de la production et pas d'amélioration des conditions de travail,
+    lutte de pouvoir (maîtrise), inadaptation des structures mises en place qui est liée à la culture,
+    résistance au changement, etc.
+
+7 Exemple de conception ergonomique des commandes
+
+7.1 Types de commandes
+  - Touche
+  - Bouton
+  - Curseur
+  - Levier
+  - Manette
+  - Tirette
+  - Volant
+  - Pédale
+  - Etc.
+
+7.2 Données générales
+  - Taille
+  - Forme
+  - Localisation (sur la machine)
+  - Précision
+  - Force
+  - Position de l'utilisateur
+  - Direction du mouvement
+  - Amplitude du mouvement
+  - Résistance
+  - Rapport commande et mouvement affiché
+  - Stabilité et effet des vibrations, température, etc. (-> Environnement : graisses sur les doigts, gants --> pas de tactile!)
+  - Limites imposées par les vêtements, les gants, etc.
+
+  --> Données générales importantes :
+    - Distance de l'observateur à l'affichage
+    - Position de l'observateur par rapport à l'affichage
+    - Type, couleur et importance de l'éclairage du dispositif
+
+
+7.3 Questions liées à l'ergonomie des commandes
+
+
+8 Besoins des utilisateurs
+
+- Pour concevoir des dispositifs adaptés aux besoins des utilisateurs, il faut :
+  - identifier précisément ces besoins actuels
+  - prévoir leur évolution, suite à l'introduction du futur dispositif
+  - traduire les besoins des utilisateurs en spécifications du dispositif à concevoir
+
+- Les besoins des utilisateurs sont définis à partir de l'analyse de leur activité
+
+- L'activité sera naalysée dans différentes situations au cours du processus de conception
+
+- La conception est struturée autour de scénatios d'utilisation
+
+
+9 Intégration de l'ergonomie dans la conduite de projet de conception
+
+9.1 Actions ergonomiques _durant_ le processus de conception
+
+  - Clarifier la demande ergonomique par rapport aux spécifications exigées par le cahier des charges
+  - Déterminer la population d'utilisateurs (âge, sexe, formation, expérience, etc.)
+  - Effectuer une analyse de la tâche et de l'activité
+  - Intégrer les données ergonomiques au cours de conception (Maquettage et Prototypage)
+  - Préparer en parallèele la documentation nécessaire (manuels de maintenance et notices)
+  - Déterminer les besoins de formation et d'organisation
+  - Évaluer les résultats de l'analyse au cours de la conception
+  - Évaluer le produit final avec les utilisateurs
+
+9.2 Dépasser le paradoxe de l'ergonomie de conception
+  a) Le paradoxe
+
+  b) Issue au paradoxe
+    - Pour le dépasser :
+      - il faut inscrire la démarche ergonomique dans le processus de conception
+      - chercher à prévoir l'activité future probable des utilisateurs et intégrer ses caractérisques au cours du processus de conception
+      - passer par la notion d'expérimentation ergonomique avec une simulation sur maquette et/ou prototype
+      - faire une évaluation sur site pilote et essais de mise en service industrielle
+
+9.3 Contribution de l'ergonomie _en amont_ de la conception (avant cahier des charges)
+  - Préciser les objectifs en terme de faisabilité
+  - Faire une étude bibliographique
+  - Faire une première analyse de la tâche et de l'activité dans les situations existantes
+  - Rédiger le cahier des charges dédié à l'ergonomie en précisant :
+    - les principales fonctionnalités
+    - les profils des utilisateurs
+    - les contextes d'utilisation
+    - les types de tâches cibles
+    - les critères d'évaluations
+
+9.4 Contribution de l'ergonomie _en cours_ de conception
+
+- Analyser l'activité dans différentes situations existantes (situation de référence, situation tremplin, etc.) :
+  - les tâches à réaliser
+  - les information significatives
+  - les compétences requises
+  - etc.
+
+- Décrire l'effet de l'activité sur l'état de l'opérateur et du collectif ainsi que sur l'état de la situation
+- Précisier les moyens qui seront disponibles :
+  - l'espace de travail
+  - les outils utilisés
+  - l'organisation du travail
+  - la formation
+  - la documentation
+
+- Contribuer à la conception des maquettes et/ou des prototypes pour simuler l'activité future possible
+- Faire une expérimentation ergonomique sur maquette et/ou prototype (difficultés d'utilisation, informations utiles manquantes, etc.)
+- Fournir des concepts pour la conception
+- Faire l'évaluation au cours de différentes étapes de la conception
+
+
+9.5 Contribution de l'ergonomie _en aval_ de la conception
+
+- Finaliser la conception des interfaces, de la documentation, des modules de formation et des aides en ligne
+- Décrire l'activité un site pilote et au démarrage et faire les modifications nécessaires
+- Mettre en place des outils de suivi de l'activité (cahier d'incidents, des pannes, d'entretien, etc.)
