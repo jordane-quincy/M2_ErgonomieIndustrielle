@@ -135,16 +135,36 @@
   11.1 Différentes étapes conceptuelles et apports pour la conception
     L'intervention ergonomique dans la conception
 
-Études préliminaires
+Phase d'Études préliminaires
     Méthodologie                                                                  Apport pour la conception
 
 Études bibliographiques                                                           Formulation des critères de décision d'investissement et de aisabilité technique et financière du projet
 Études comparatives des produits existants
 
 
-Études de base
+Phase d'Études de base
     Méthodologie                                                                  Apport pour la conception
 
 Analyse du travail dans deux situations naturelles :                              Élaboration des principes ergonomiques de conception :
   - La situation existante qui va être modifiés.                                    - 1ère élaboration des spécifications générales (fonctions générales du dispositif/produit)
-  - Une autre situation de référence similaire à la situation future
+  - Une autre situation de référence similaire à la situation future                - Exigences à tenir (temps de réponse, etc.)
+                                                                                    - Tâches à modifier, à intégrer dans le dispositif/produit
+
+
+Phase d'Études de détail
+    Méthodologie                                                                  Apport pour la conception
+
+Expérimenatation ergonomiques :
+  - Conception des maquettes et des prototypes                                    - Tester la pertinence des spécifications provisoires
+  - Analyse de l'activité sur maquettes et prototypes                             - Évaluer ergonomiquement les maquettes et prototypes
+  - Pronostic pour prévoir l'activité future                                      - Prévoir l'actitivité future et en déduire des spécifications plus fiables
+  - En déduire le modèle de l'activité ou de l'opérateur                          - Mise en œuvre des principales fonctions du produit au niveau de l'interface
+
+
+Phase d'Essai et fonctionnement
+    Méthodologie                                                                  Apport pour la conception
+
+Expérimenatation ergonomiques :
+  - Véritable analyse de l'activité au démarrage pour évaluer                     - Améliorer l'activité en situation d'apprentissage
+    les contraintes qui se posent                                                 - Modification techniques
+                                                                                  - Prévention des incidents
