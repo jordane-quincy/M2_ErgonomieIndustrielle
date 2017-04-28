@@ -243,9 +243,9 @@ Phase 6 : Implantation de la SdC                                                
                                                               ↓↓↓↓↓↓↓↓↓
                                                               Adaptation et évolution
                                                               ↓↓↓↓↓↓↓↓↓
-Phase 7 : Démarrage                                                                 Étape 7 :
-- retour d'informations                                                              -
-- résolution des problèmes
+Phase 7 : Démarrage                                                                 Étape 7 : Evaluation ergonomique
+- retour d'informations                                                              -Analyse du travail(taches et activité)
+- résolution des problèmes															 -Recommandations
 - Accompagnement des opérateurs
 
 
