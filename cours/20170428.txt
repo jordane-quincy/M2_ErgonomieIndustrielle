@@ -1,0 +1,12 @@
+9.6 Contribution de l'ergonomie _à l'examen d'expérience_ d'exploitation
+
+- Retour d'expérience
+- Éviter qu'un incident connu ne se produise à nouveau
+- Identifier les incidents précurseurs d'incidents plus graves voire même des accidents
+- Constituer une base de données pour les prochains projets de conception
+
+10 Intervention ergonomique au cours du processus de conception du produit
+
+  10.1 Conditions de l'intervention ergonomique
+    - L'analyse ergonomique doit être intégrée aux différents stades du processus de conception d'un nouveau produit.
+    -
