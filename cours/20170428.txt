@@ -97,7 +97,28 @@
           - Enfin, les enseignements tirés des prototypes sont plus riches que ceux issues des maquettes car on les confie à des utilisateurs potentiels qui les testent.
 
         d) Différents types de maquettes et de prototypes
-          - Maquette / Prototype technique
+          - Maquette / prototype technique
             - étude de faisabilité technique
             - support pour le développement du logiciel
-            -
+
+          - Maquette / prototype ergonomique
+            - test ergonomique (avec des utilisateurs)
+            - support de communication entre l'ergonome et l'équipe de conception
+
+          - Maquette / prototype commerciale
+            - démonstration commerciale (en amont de la commercialisation)
+            - support d'échange avec les clients
+
+        e) Objectifs du maquettage / prototypage
+          - Clarification fonctionnelle
+            - aider à la définition des besoins et des spécifications
+            - valider et vérifier l'homogénéité des spécifications
+
+          - Communication et interaction Homme-Machine
+            - faciliter la communication entre développurs et utilisateurs
+            - concevoir les interfaces Homme-ordinateur
+
+          - Validation technique
+            - vérifier la faisabilité
+            - tester des éléments ou des hypothèses : montée en charge, simulation de base de données, etc.
+            
