@@ -15,23 +15,22 @@
       Connaissances sur le
       fonctionnement de la
       situation future (cahier des charges)
-  ^
-  |
+  ↑
+  ↓
 
     Ergonomes
       Connaissances sur la
       tâche et l'activité
       dans la situation de référence
-  ^
-  |
-
+  ↑
+  ↓
 
     Utilisateurs
       Connaissances sur la
       variabilité et les difficultés
       dans la situation actuelle
-  ^
-  |
+  ↑
+  ↓
 
     ---------------------------------------------------------------------------------------
     | Explication des tâches et reconstitution de l'activité future probable (ou possible) |
@@ -47,4 +46,9 @@
     - Différents intervenants dans un projet de conception avec diffférents points de vue.
         (schéma entre les différents intervenants (ergonome, opérateur, chef de projet, ingénieur méthodes, informaticien, maître d'ouvrage) avec au centre le projet de conception)
 
-    
+
+  10.2 Critères d'évaluation de la conception
+    - Critères de performance : à voir leur inadéquation (en terme de capacité de réalisation, de temps pour le réaliser, etc.)
+    - Charge de travail : Comment la mesurer ?
+    - Facilité d'utilisation, facilité d'apprentissage : Comment les juge-t'on ?
+    - C'est plus généralement la question des propriétés (ergonomiques) des systèmes informatiques qui pose la question de "convivialité", "usability", "easy of use", etc.
