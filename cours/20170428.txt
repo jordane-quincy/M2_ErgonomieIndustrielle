@@ -9,4 +9,26 @@
 
   10.1 Conditions de l'intervention ergonomique
     - L'analyse ergonomique doit être intégrée aux différents stades du processus de conception d'un nouveau produit.
-    -
+    - Elle nécessite une coopération triangulaire entre les concepteurs (informaticiens), les ergonomes et les utilisateurs.
+
+    Concepteurs
+      Connaissances sur le
+      fonctionnement de la
+      situation future (cahier des charges)
+
+    Ergonomes
+      Connaissances sur la
+      tâche et l'activité
+      dans la situation de référence
+
+    Utilisateurs
+      Connaissances sur la
+      variabilité et les difficultés
+      dans la situation actuelle
+
+    ---------------------------------------------------------------------------------------
+    | Explication des tâches et reconstitution de l'activité future probable (ou possible) |
+    ---------------------------------------------------------------------------------------
+
+
+    
