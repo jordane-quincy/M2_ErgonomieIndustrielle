@@ -227,7 +227,7 @@ Phase 4 : Conception et réalisation du système                                
                                                               ↓↓↓↓↓↓↓↓↓
                                                               Spéfication conceptuelles
                                                               ↓↓↓↓↓↓↓↓↓
-Phase 5 : Etudes de détail                                                          Étape 5 : Pronostic ergonomique
+Phase 5 : Études de détail                                                          Étape 5 : Pronostic ergonomique
 - Conception détaillée de l'installation                                            - Maquettage
 - Conception détaillée de la SdC                                                    - Prototypage
     (disposition des postes de travail, environnements physique, essai et contrôle) - Recommandations
@@ -243,9 +243,9 @@ Phase 6 : Implantation de la SdC                                                
                                                               ↓↓↓↓↓↓↓↓↓
                                                               Adaptation et évolution
                                                               ↓↓↓↓↓↓↓↓↓
-Phase 7 : Démarrage                                                                 Étape 7 : Evaluation ergonomique
+Phase 7 : Démarrage                                                                 Étape 7 : Évaluation ergonomique
 - retour d'informations                                                              -Analyse du travail(taches et activité)
-- résolution des problèmes															 -Recommandations
+- résolution des problèmes															                             -Recommandations
 - Accompagnement des opérateurs
 
 
