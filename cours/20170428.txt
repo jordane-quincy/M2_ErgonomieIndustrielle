@@ -92,4 +92,12 @@
           - C'est une expérimentation verticale, car on approfondira dans la forme finale une ou des fonctions du système (contrairement à la maquette : horizontale)
           - Par exemple, quand on clique sur l'icône, on aura la page suivante, l'animation, etc.
           - Alors que la maquette est une expérimentation horizontale, car on étudie l'ensemble des fonctions, mais pas le détail
-        
+          - Le prototype est plus utilisé à des fins techniques (pour quelque chose de compliqué), pour mesurer un temps de cycle ou valider une solution technique.
+          - Il s'avère également indispensable pour d'important projets où les besoins de nombreux utilisateurs ne sont pas les mêmes.
+          - Enfin, les enseignements tirés des prototypes sont plus riches que ceux issues des maquettes car on les confie à des utilisateurs potentiels qui les testent.
+
+        d) Différents types de maquettes et de prototypes
+          - Maquette / Prototype technique
+            - étude de faisabilité technique
+            - support pour le développement du logiciel
+            -
