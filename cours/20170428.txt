@@ -15,20 +15,36 @@
       Connaissances sur le
       fonctionnement de la
       situation future (cahier des charges)
+  ^
+  |
 
     Ergonomes
       Connaissances sur la
       tâche et l'activité
       dans la situation de référence
+  ^
+  |
+
 
     Utilisateurs
       Connaissances sur la
       variabilité et les difficultés
       dans la situation actuelle
+  ^
+  |
 
     ---------------------------------------------------------------------------------------
     | Explication des tâches et reconstitution de l'activité future probable (ou possible) |
     ---------------------------------------------------------------------------------------
 
+
+    - Une collaboration multidisciplinaire avec différents intervenants dans le projet
+        (schéma entre les différents intervenant avec au centre la conception de l'interface)
+
+    - Plusieurs points de rencontre entre partenaires de la conception
+        (schéma)
+
+    - Différents intervenants dans un projet de conception avec diffférents points de vue.
+        (schéma entre les différents intervenants (ergonome, opérateur, chef de projet, ingénieur méthodes, informaticien, maître d'ouvrage) avec au centre le projet de conception)
 
     
