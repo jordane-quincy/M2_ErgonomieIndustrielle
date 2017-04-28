@@ -121,4 +121,30 @@
           - Validation technique
             - vérifier la faisabilité
             - tester des éléments ou des hypothèses : montée en charge, simulation de base de données, etc.
-            
+
+        f) Coût d'une expérimentation ergonomique :
+          Le coût varie en fonction de :
+            - La complexité du système à concevoir (coût ds spécifications, réalisation de la maquette, analyse de l'utilisation, etc.)
+            - De l'insertion de l'ergonomie dans le processus de conception (analyse de l'existant, situation tremplin, site pilote, etc.)
+            - L'écart entre situations de référence et la future situation d'utilisation
+            - Contraintes de planning du projet
+
+
+11 Méthodologie de conception
+
+  11.1 Différentes étapes conceptuelles et apports pour la conception
+    L'intervention ergonomique dans la conception
+
+Études préliminaires
+    Méthodologie                                                                  Apport pour la conception
+
+Études bibliographiques                                                           Formulation des critères de décision d'investissement et de aisabilité technique et financière du projet
+Études comparatives des produits existants
+
+
+Études de base
+    Méthodologie                                                                  Apport pour la conception
+
+Analyse du travail dans deux situations naturelles :                              Élaboration des principes ergonomiques de conception :
+  - La situation existante qui va être modifiés.                                    - 1ère élaboration des spécifications générales (fonctions générales du dispositif/produit)
+  - Une autre situation de référence similaire à la situation future
