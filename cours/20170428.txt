@@ -237,7 +237,7 @@ Phase 5 : Etudes de détail                                                     
                                                               ↓↓↓↓↓↓↓↓↓
 Phase 6 : Implantation de la SdC                                                    Étape 6 : Implantation et recommandations ergonomiques
 - génie civil, câblage                                                              - Mise en œuvre des solutions ergonomiques
-- Ssytéme électrique et automatiques                                                - Formation, documentation et organisation du travail
+- Systême électrique et automatiques                                                - Formation, documentation et organisation du travail
 - infrastructure
 
                                                               ↓↓↓↓↓↓↓↓↓
@@ -289,4 +289,3 @@ Phase 7 : Démarrage                                                            
     - Comment la rendre explicite ?
     - À quelle moment la faire apparaître ?
   - Définir des propositions pour la conception
-  
