@@ -65,4 +65,5 @@
           - Situation "tremplin" : qui se rapproche plus de la situation à concevoir (par exemple de la version de V1 à V2) (mais qui n'est PAS la V2 --> on prends exemple sur autre chose d'existant)
 
       10.3.2 Phase de pronostic :
-        
+        - Basée sur l'expérimentation pendant laquelle on procède à évaluer l'utilisation d'une maquette du produit ou de son prototype.
+        - 
