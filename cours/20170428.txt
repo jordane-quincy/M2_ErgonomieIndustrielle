@@ -74,4 +74,6 @@
           - Elle désigne un modèle réduit ,à l'échelle, d'un produit.
           - Elle ne ressemble au produit final qu'en "surface" (pas beaucoup, pas de dynamisme, etc.)
           - En informatique, l'objectif de la maquette est de présenter un modèle de l'application.
-          - 
+          - Seul l'aspect graphique compte (une page écran par exemple), derrière il n'y a pas de lignes de codes qui réalisent les fonctions de l'application. (tout est statique)
+          - Elle permet, enfin, de comprendre les fonctionnalités attendues par l'utilisateur, de déterminer son comportement.
+          
