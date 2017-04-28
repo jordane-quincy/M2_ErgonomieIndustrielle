@@ -178,3 +178,21 @@ Expérimenatation ergonomiques :
   - Analyse fine de l'activité en situation (réelle, après 1 ou 2 semaines)       - Évolution après le démarrage :
     - Diagnostic ergonomique pour l'évaluation                                      - Aménagement technique et organisationnel
     - Aménagement de la situation conçue.                                           - Recommandations pour la formation et la documentation
+
+
+11 Méthodologie de conception
+
+
+11.2 Modélisation de l'activité dans différentes situations
+
+                                                                                                    Apport pour la conception
+
+Analyse de l'activité en situation de référence             |------------------------------------> Spécifications des objets
+                                                                | Diagnostic ergonomique |
+Analyse de l'activité en situation tremplin                 |---------------------------↓--------> Spécifications des fonctionnalités
+                                                                | Pronostic ergonomique |
+Analyse de l'activité en situation d'expérimentation (MP)   |--------------------------↓---------> Spécifitions du dialogue
+                                                                                       ↓
+Analyse de l'activité en situation en site pilote           |--------------------------↓---------> Validation et fonctionnement normal
+                                                                | Modele de l'activité future |
+Analyse de l'activité en situation réelle                   |------------------------------------
