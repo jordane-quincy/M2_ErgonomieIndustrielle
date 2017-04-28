@@ -56,4 +56,10 @@
   10.3 Prévoir l'activité future probable des utilisateurs
     - La contribution de l'ergonomie aux différentes étapes de la conception qui va se faire par le biais d'une démarche itérative.
     - Cette démarche itérative cherche à prévoir ce que sera l'utilisation du produit au dur et à mesure de sa réalisation.
-    - 
+
+    - Cette démarche de conception est centrée sur l'activité des utilisateurs en passant par deux phases :
+
+      10.3.1 Phase de diagnostic :
+        Basée sur l'analyse de l'activité dans deux situations naturelles de travail :
+          - Situation de "référence" : qui peut être actuelle et qui fait l'objet de l'informatisation.
+          - 
