@@ -85,3 +85,11 @@
           - La maquette présente deux inconvénients :
             - D'une part, les utilisateurs pensent que si elle est terminée, il en est de même pour l'application, alors que dans la plupart des cas, aucune fonction n'a encore été développée.
             - D'autre part, il faut faire attention au choix de l'exemple de la maquette. Car l'utilisateur va focaliser son attention sur le premier exemple qu'il verra, et pourra douter des capactiés du concepteur s'il change souvent l'aspect de la maquette.
+
+        c) Prototype
+          - C'est une expérimentation sur une situation future à contrainte. (exemple : freinage pour une voiture)
+          - C'est un exemple parfait d'une type particulier, une version "fait main" d'un modèle du produit final dont il a toutes les fonctionnalités (plus ou moins).
+          - C'est une expérimentation verticale, car on approfondira dans la forme finale une ou des fonctions du système (contrairement à la maquette : horizontale)
+          - Par exemple, quand on clique sur l'icône, on aura la page suivante, l'animation, etc.
+          - Alors que la maquette est une expérimentation horizontale, car on étudie l'ensemble des fonctions, mais pas le détail
+        
