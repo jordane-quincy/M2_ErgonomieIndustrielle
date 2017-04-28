@@ -66,4 +66,12 @@
 
       10.3.2 Phase de pronostic :
         - Basée sur l'expérimentation pendant laquelle on procède à évaluer l'utilisation d'une maquette du produit ou de son prototype.
-        - 
+        - Elle permet de valider la pertinence des premières spécifications du produit et d'en déduire d'autres.
+
+      10.3.3 Maquette ou prototype ?
+        a) Maquette
+          - La maquette est une expérimentation sur simulation de la situation future.
+          - Elle désigne un modèle réduit ,à l'échelle, d'un produit.
+          - Elle ne ressemble au produit final qu'en "surface" (pas beaucoup, pas de dynamisme, etc.)
+          - En informatique, l'objectif de la maquette est de présenter un modèle de l'application.
+          - 
