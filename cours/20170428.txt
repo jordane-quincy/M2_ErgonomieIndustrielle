@@ -168,3 +168,13 @@ Expérimenatation ergonomiques :
   - Véritable analyse de l'activité au démarrage pour évaluer                     - Améliorer l'activité en situation d'apprentissage
     les contraintes qui se posent                                                 - Modification techniques
                                                                                   - Prévention des incidents
+                                                                                  - Intégration de la contrainte temporelle
+
+
+Phase de Suivi
+    Méthodologie                                                                  Apport pour la conception
+
+Expérimenatation ergonomiques :
+  - Analyse fine de l'activité en situation (réelle, après 1 ou 2 semaines)       - Évolution après le démarrage :
+    - Diagnostic ergonomique pour l'évaluation                                      - Aménagement technique et organisationnel
+    - Aménagement de la situation conçue.                                           - Recommandations pour la formation et la documentation
