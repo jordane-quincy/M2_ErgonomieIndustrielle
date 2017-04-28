@@ -204,7 +204,6 @@ Phase 1 : Faisabilité de l'étude (phase de pré-projet)                       
 - Le type de processus                                                              - Analyse de la demande
 - Niveau d'automatisation                                                           - Recenser les facteurs humains
 - Estimation de la main d’œuvre                                                     - Bibliographie
-                                                              ↓↓↓↓↓↓↓↓↓
                                                               OUI / NON
                                                               ↓↓↓↓↓↓↓↓↓
 Phase 2 : Définition du projet                                                    Étape 2 : Définition du problème
@@ -213,10 +212,81 @@ Phase 2 : Définition du projet                                                 
                                                               Base de conception
                                                               ↓↓↓↓↓↓↓↓↓
 Phase 3 : Analyse fonctionnelle                                                    Étape 3 : Analyse des documents
-- Analyse de l'installation existante                                               -Analyse de la situation actuelle
+- Analyse de l'installation existante                                               - Analyse de la situation actuelle
 - Performance, expérience                                                           - Description du système
 - Analyse de la situation future                                                    - Analyse des tâches prescrites
 - Objectifs, besoin                                                                 - Analyse des tâches prescrites
 - Rédaction du cahier des charges                                                  - Spécifications pour le cahier des charges "ergonomie"
                                                               ↓↓↓↓↓↓↓↓↓
                                                               Analyse des documents
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 4 : Conception et réalisation du système                                     Étape 4 :Diagnostic ergonomique
+- Spécifications du processus et de son contrôle                                    - Identification des tâches réelles et de leur interaction
+- Spécifications des équipements et des instruments                                 - Analyse de l'activité
+                                                                                    - Allocation des tâches et organisation du travail
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              Spéfication conceptuelles
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 5 : Etudes de détail                                                          Étape 5 : Pronostic ergonomique
+- Conception détaillée de l'installation                                            - Maquettage
+- Conception détaillée de la SdC                                                    - Prototypage
+    (disposition des postes de travail, environnements physique, essai et contrôle) - Recommandations
+
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              Chantier et démarrage
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 6 : Implantation de la SdC                                                    Étape 6 : Implantation et recommandations ergonomiques
+- génie civil, câblage                                                              - Mise en œuvre des solutions ergonomiques
+- Ssytéme électrique et automatiques                                                - Formation, documentation et organisation du travail
+- infrastructure
+
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              Adaptation et évolution
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 7 : Démarrage                                                                 Étape 7 :
+- retour d'informations                                                              -
+- résolution des problèmes
+- Accompagnement des opérateurs
+
+
+
+11.5 Analyse ergonomique dans le processus de conception itératif
+
+
+- Analyse de l'existant
+                                        Observations
+                                        Travail réel / théorique
+                                        Difficultés rencontrées
+- Analyse fonctionnelle
+                                        Description du système
+                                        Structure, vocabulaire
+                                        Formation, organisation
+- Analyse Organique
+                                        Standards de dialogue
+- Réalisation
+                                        Maquette
+                                        Prototype
+                                        Contrôles et saisie
+- Recette Site pilote
+                                        Situation réelle
+                                        Incidence des composantes
+                                        Temps de réponse
+
+--> cf. Paradoxe de l'ergonomie de conception
+
+12 Conclusion
+
+- Considérer le caractère itératif du processus de conception, c-a-dire adopter une démarche de spécifications du futur système par étapes successives avec possibilités de retour en arrière
+- Au moins deux conditions pour avoir une conception efficace :
+  - Une collaboration entre l'ergonome et le concepteur
+  - Une collaboration entre l'ergonome et l'utilisateur
+- Au cours du processus de conception, l'ergonome doit :
+  - S'intégrer dans une groupe de travail et un groupe de suivi de projet de conception
+    (groupe de travail : réunion presque tout les jours, ceux avec qui on travaille. Groupe de suivi : les décideurs (financier, chef de projet, etc.))
+  - Comprendre la tache et l'activité des utilisateurs et fournir leurs caractéristiques aux concepteurs
+  - Répondre aux moins à 3 questions fondamentales :
+    - Quelle informations doit on fournir à l'utilisateur ?
+    - Comment la rendre explicite ?
+    - À quelle moment la faire apparaître ?
+  - Définir des propositions pour la conception
+  
