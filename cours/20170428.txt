@@ -194,5 +194,29 @@ Analyse de l'activité en situation tremplin                 |------------------
 Analyse de l'activité en situation d'expérimentation (MP)   |--------------------------↓---------> Spécifitions du dialogue
                                                                                        ↓
 Analyse de l'activité en situation en site pilote           |--------------------------↓---------> Validation et fonctionnement normal
-                                                                | Modele de l'activité future |
-Analyse de l'activité en situation réelle                   |------------------------------------
+                                                                | Modèle de l'activité future |
+Analyse de l'activité en situation réelle                   |------------------------------------> Recommandation ergonomiques
+
+
+11.3 Différentes phases du projet et étapes d'intégration et l'ergonomie (Exemple de conception d'une salle de contrôle)
+
+Phase 1 : Faisabilité de l'étude (phase de pré-projet)                            Étape 1 : Faisabilité
+- Le type de processus                                                              - Analyse de la demande
+- Niveau d'automatisation                                                           - Recenser les facteurs humains
+- Estimation de la main d’œuvre                                                     - Bibliographie
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              OUI / NON
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 2 : Définition du projet                                                    Étape 2 : Définition du problème
+- Objectifs fonctionnels, étude du besoin, étude des contraintes                    - Structuration des implications ergonomiques
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              Base de conception
+                                                              ↓↓↓↓↓↓↓↓↓
+Phase 3 : Analyse fonctionnelle                                                    Étape 3 : Analyse des documents
+- Analyse de l'installation existante                                               -Analyse de la situation actuelle
+- Performance, expérience                                                           - Description du système
+- Analyse de la situation future                                                    - Analyse des tâches prescrites
+- Objectifs, besoin                                                                 - Analyse des tâches prescrites
+- Rédaction du cahier des charges                                                  - Spécifications pour le cahier des charges "ergonomie"
+                                                              ↓↓↓↓↓↓↓↓↓
+                                                              Analyse des documents
