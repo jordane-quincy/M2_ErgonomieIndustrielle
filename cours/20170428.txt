@@ -76,4 +76,12 @@
           - En informatique, l'objectif de la maquette est de présenter un modèle de l'application.
           - Seul l'aspect graphique compte (une page écran par exemple), derrière il n'y a pas de lignes de codes qui réalisent les fonctions de l'application. (tout est statique)
           - Elle permet, enfin, de comprendre les fonctionnalités attendues par l'utilisateur, de déterminer son comportement.
-          
+          - C'est aussi un bon moyen de communication entre le concepteur et l'utilisateur, qui lors de la présentation, donnera davantage d'informations.
+          - On va systématiquement développer une maquette pour un projet tandis qu'un prototype ne sera créé que dans certains cas.
+
+        b) Le contenu de la maquette
+          - La maquette présente la version provisoire de l'aspect graphique de l'application.
+          - Les fenêtres et les dialogues "génériques" ne seront présentés qu'une seule fois car ils sont souvent les mêmes.
+          - La maquette présente deux inconvénients :
+            - D'une part, les utilisateurs pensent que si elle est terminée, il en est de même pour l'application, alors que dans la plupart des cas, aucune fonction n'a encore été développée.
+            - D'autre part, il faut faire attention au choix de l'exemple de la maquette. Car l'utilisateur va focaliser son attention sur le premier exemple qu'il verra, et pourra douter des capactiés du concepteur s'il change souvent l'aspect de la maquette.
