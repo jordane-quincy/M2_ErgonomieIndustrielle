@@ -52,3 +52,8 @@
     - Charge de travail : Comment la mesurer ?
     - Facilité d'utilisation, facilité d'apprentissage : Comment les juge-t'on ?
     - C'est plus généralement la question des propriétés (ergonomiques) des systèmes informatiques qui pose la question de "convivialité", "usability", "easy of use", etc.
+
+  10.3 Prévoir l'activité future probable des utilisateurs
+    - La contribution de l'ergonomie aux différentes étapes de la conception qui va se faire par le biais d'une démarche itérative.
+    - Cette démarche itérative cherche à prévoir ce que sera l'utilisation du produit au dur et à mesure de sa réalisation.
+    - 
